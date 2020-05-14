@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">SpaceWarriorSuper</string>
+    <string name="start_en">start</string>
+    <string name="back_en">back</string>
+    <string name="start_ru">начать</string>
+    <string name="back_ru">назад</string>
+    <string name="ru">ru</string>
+    <string name="en">en</string>
+    <string name="lore">Я бортовой помощник пилотов \"Джарвис\".
+    Ваш корабль потерпел крушение, но вы смогли
+    спастись на маленьком челноке \"Венера\".
+    Вам предстоит добраться до родной планеты \"Фурия\"
+    в созвездии Одина. Ваш путь опасен, в космосе много монстров и бандитов.
+    Сражайтесь с ними, забирайте их оружие и укрепляйте свой челнок.
+    Счастливого вам пути. И пусть удача всегда будет с вами.
+    </string>
+    <string name="skip">Я понял, вперёд!(пропустить обучение)</string>
+    <string name="study">Как мне управлять челноком?(обучение)</string>
+    <string name="studing">Для передвижения нажмите на ваш челнок и передвигайте его. Перемеcтите челнок в указанные зоны.</string>
+    <string name="studing2">Враг на горизонте, приготовьтесь к битве.Вам надо уклониться от выстрелов и уничтожить его.</string>
+    <string name="winner">WINNER, WINNER, CHICKEN DINNER</string>
+    <string name="winner2">Поздравляю, вы справились с этим противником. Продолжайте свой путь и вскоре вы достигните планеты \"Фурия\"</string>
+    <string name="lose">YOU LOSE</string>
+</resources>
